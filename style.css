@@ -1,12 +1,17 @@
-.image {
+.container img{
+  background-color: darkblue;
   margin: auto;
   float: left;
   width: 23.5%;
   padding: 5px;
 }
 
-.container {
-  background-color: yellow;
+.container2 img{
+  background-color: darkblue;
+  margin:auto;
+  float: left;
+  width: 23.5%;
+  padding: 5px;
 }
 
 body {

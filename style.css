@@ -1,4 +1,12 @@
+.text {
+  clear: both;
+  background-color: lightyellow
+  margin: auto;
+  font-style: italic;
+}
+
 .container img{
+  display: block;
   background-color: darkblue;
   margin: auto;
   float: left;
@@ -7,6 +15,7 @@
 }
 
 .container2 img{
+  display: block;
   background-color: darkblue;
   margin:auto;
   float: left;
